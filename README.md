@@ -1,16 +1,16 @@
-🎮 Hangman Game – Python Project
-📌 Project Title
+##🎮 Hangman Game – Python Project
+##📌 Project Title
 
 Text-Based Hangman Game using Python
 
-📖 Project Description
+##📖 Project Description
 
 This project is a simple text-based implementation of the classic Hangman Game developed using Python programming language.
 In this game, the player has to guess a hidden word by entering one letter at a time within a limited number of attempts.
 
 The system randomly selects a word from a predefined list, and the player must guess the correct letters before the maximum number of incorrect guesses (6 attempts) is reached.
 
-🎯 Objective
+##🎯 Objective
 
 The main objective of this project is to:
 
@@ -24,7 +24,7 @@ Apply the random module for word selection
 
 Develop logic-building skills through game development
 
-🛠️ Technologies Used
+##🛠️ Technologies Used
 
 Python
 
@@ -32,7 +32,7 @@ Random Module
 
 Console-based Input/Output
 
-🧩 Features
+##🧩 Features
 
 Predefined list of 5 words
 
@@ -48,7 +48,7 @@ Notifies repeated guesses
 
 Win/Loss result display at the end
 
-▶️ How to Run the Program
+##▶️ How to Run the Program
 
 Follow these steps to run the game:
 
@@ -66,7 +66,7 @@ Run the program.
 
 Enter one letter at a time to guess the hidden word.
 
-🕹️ Game Instructions
+##🕹️ Game Instructions
 
 The system will choose a random word.
 
@@ -84,7 +84,7 @@ You guess the word correctly (Win), or
 
 You run out of attempts (Lose)
 
-📷 Sample Output
+##📷 Sample Output
 Welcome to Hangman Game!
 Guess the word one letter at a time.
 You have 6 incorrect attempts.
@@ -97,7 +97,7 @@ Word: a _ _ _ _
 Enter a letter: z
 Wrong Guess!
 Attempts left: 5
-📚 Learning Outcomes
+##📚 Learning Outcomes
 
 After completing this project, you will understand:
 
@@ -113,6 +113,6 @@ Random word selection
 
 Basic game logic implementation
 
-👩‍💻 Author
+##👩‍💻 Author
 
 Nikita Patil
